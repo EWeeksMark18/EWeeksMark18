@@ -2,5 +2,5 @@
 - 👀 I’m interested in the mathematical and philosophical foundations of computer science.
 - 🌱 I’m currently learning C++, Python, computer graphics, A.I and computer hardware.
 - 💞️ I’m looking to collaborate on various different potential projects.
-- 📫 My email is wevan1236@gmail.com.
+- 📫 For business enquiries, my email is wevan1236@gmail.com.
 
